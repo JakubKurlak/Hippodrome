@@ -1,2 +1,2 @@
 # Hippodrome
-Simple game in console.
+Simple random game in the console.
